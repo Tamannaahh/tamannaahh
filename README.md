@@ -3,14 +3,14 @@
 <h1 align="center">Hey There, I'm Tamanna Parmar 👋</h1>
 
 <p align="center">
-  <i>M.Sc. Computer Science & Data Science Student | Python & Machine Learning Developer</i>
+  <i>Computer Science & Data Science | Python & Machine Learning Developer</i>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a student at PP Savani University, passionate about building smart web applications, machine learning models, and secure software solutions like the TamScam Detector.
+Passionate about building smart web applications, machine learning models, and secure software solutions.
 
 ---
 
@@ -19,8 +19,8 @@ I am a student at PP Savani University, passionate about building smart web appl
 #### Languages & Core
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MachineLearning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML/CSS-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
