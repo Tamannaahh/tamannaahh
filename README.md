@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" alt="Animated Header Background" width="100%" />
+</p>
+
 <h1 align="center">Hey There, I'm Tamanna Parmar 👋</h1>
 
 <p align="center">
   <i>M.Sc. Computer Science & Data Science Student | Python & Machine Learning Developer</i>
 </p>
+
+---
 
 ---
 
