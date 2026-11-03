@@ -1,10 +1,14 @@
+<h1 align="center">Hey There, I'm Tamanna Parmar 👋</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-Developer-Header.svg" alt="Header Banner" width="100%" />
+  <i>M.Sc. Computer Science & Data Science Student | Python & Machine Learning Developer</i>
 </p>
+
+---
 
 ### 🚀 About Me
 
-I am an M.Sc. Computer Science / Data Science student at PP Savani University, passionate about building smart web applications, machine learning models, and secure software solutions.
+I am a student at PP Savani University, passionate about building smart web applications, machine learning models, and secure software solutions like the TamScam Detector.
 
 ---
 
@@ -43,9 +47,9 @@ I am an M.Sc. Computer Science / Data Science student at PP Savani University, p
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamanna_Parmar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna_Parmar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub-Tamanna__Parmar-blue?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-success?style=for-the-badge" alt="Status" />
 </p>
