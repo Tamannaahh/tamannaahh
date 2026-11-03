@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey There, I'm Tamanna Parmar 👋</h1>
+<h1 align="center">Hey There, I'm Tamannah 👋</h1>
 
 <p align="center">
   <i>Computer Science & Data Science | Python & Machine Learning Developer</i>
