@@ -32,7 +32,9 @@ I am an M.Sc. Computer Science / Data Science student at PP Savani University, p
 ### 📈 GitHub Stats
 
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamanna_Parmar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna_Parmar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub-Tamanna__Parmar-blue?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Repositories-Public-orange?style=for-the-badge&logo=git" alt="Repositories" />
 </p>
