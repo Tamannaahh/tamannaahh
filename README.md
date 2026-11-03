@@ -1,10 +1,12 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=0,2,15,24,30&height=180&section=header&text=Hey%20There,%20I'm%20Tamanna%20Parmar%20👋&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38)
+# Hi There, I'm Tamanna Parmar 👋
+
+### 💻 M.Sc. Computer Science & Data Science Student | Python & Machine Learning Developer
 
 ---
 
 ### 🚀 About Me
 
-I am an M.Sc. Computer Science & Data Science student at PP Savani University, passionate about building smart web applications, machine learning models, and secure software solutions.
+I am a student at PP Savani University, passionate about building smart web applications, machine learning models, and secure software solutions like the TamScam Detector.
 
 ---
 
@@ -43,9 +45,9 @@ I am an M.Sc. Computer Science & Data Science student at PP Savani University, p
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamanna_Parmar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna_Parmar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub-Tamanna__Parmar-blue?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-success?style=for-the-badge" alt="Status" />
 </p>
